@@ -3,7 +3,7 @@ import Keys._
 
 object Build extends Build {
 
-  val buildVersion = "1.6"
+  val buildVersion = "1.6-SNAPSHOT"
 
   val delvingReleases = "Delving Releases Repository" at "http://nexus.delving.org/nexus/content/repositories/releases"
   val delvingSnapshots = "Delving Snapshot Repository" at "http://nexus.delving.org/nexus/content/repositories/snapshots"
